@@ -1,1 +1,1 @@
-Shield. A protective framework.
+Shield. A protective framework by @aez0
